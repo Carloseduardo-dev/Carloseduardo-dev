@@ -1,5 +1,5 @@
 ## Olá Eu Sou o Carlos Eduardo
-- 🌱 Estudando Python
+- 🌱 Estudando Python | MySQL
 - 😃 Cursando Ciências da computação
 - 🤔 Em Busca do Primeiro Estágio/Empego na Área de TI
 - 🔭 Hoje Trabalho como Vendedor
