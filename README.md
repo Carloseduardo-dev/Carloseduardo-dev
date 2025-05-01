@@ -1,8 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Carlos Eduardo!🤓</h1>
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/139161479?v=4" width="150" style="border-radius: 50%" alt="Foto de Perfil" />
-</p>
+<h1 align="center"> Carlos Eduardo!🤓 </h1>
 
 ---
 
@@ -17,7 +13,7 @@
 
 ### 🚀 Sobre Mim
 - 🎓 Cursando **Ciência da Computação** – UNESA  
-- 🧠 Estudando **Python, MySQL e JavaScript**
+- 🧠 Estudando **Python, MySQL**
 - 💼 Em transição de carreira: Atualmente trabalho como **Vendedor**
 - 👀 Buscando o **primeiro estágio ou oportunidade** na área de TI
 - 📫 Email para contato: **contatocarloseduardofe@gmail.com**
@@ -36,7 +32,7 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas
 
 <p align="center">
   <a href="https://github.com/Carloseduardo-dev">
@@ -53,6 +49,6 @@
 
 ---
 
-### 🐍 Meus commits animados 😅
+### 🐍 Meus commits animados😅
 
 ![snake gif](https://github.com/Carloseduardo-dev/Carloseduardo-dev/blob/output/github-snake.svg)
