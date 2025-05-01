@@ -1,3 +1,4 @@
+
 <h1 align="center">👋 Olá, eu sou o Carlos Eduardo</h1>
 
 <p align="center">
@@ -31,24 +32,21 @@
 
 <div align="center">
   <a href="https://github.com/Carloseduardo-dev">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Carloseduardo-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Carloseduardo-dev&show_icons=true&theme=radical&count_private=true&hide_border=true" />
   </a>
   <a href="https://github.com/Carloseduardo-dev">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloseduardo-dev&layout=compact&theme=tokyonight&hide_border=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloseduardo-dev&layout=pie&theme=radical&hide_border=true" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/Carloseduardo-dev">
-    <img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=Carloseduardo-dev&theme=tokyonight&hide_border=true" />
+    <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=Carloseduardo-dev&theme=radical&hide_border=true" />
   </a>
 </div>
 
 ---
 
-### 🌐 Onde me encontrar:
-<p align="left">
-  <a href="mailto:contatocarloseduardofe@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/seu-linkedin-aqui/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Carloseduardo-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+### 🐍 Meus commits animados
+
+![snake gif](https://github.com/Carloseduardo-dev/Carloseduardo-dev/blob/output/github-snake.svg)
