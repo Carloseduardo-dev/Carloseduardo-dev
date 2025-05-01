@@ -1,4 +1,10 @@
-<h1 align="center">👋 Olá, eu sou o Carlos Eduardo</h1>
+<h1 align="center">👋 Olá, eu sou o Carlos Eduardo!🤓</h1>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/139161479?v=4" width="150" style="border-radius: 50%" alt="Foto de Perfil" />
+</p>
+
+---
 
 <p align="center">
   <img 
@@ -32,23 +38,21 @@
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/Carloseduardo-dev">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Carloseduardo-dev&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carloseduardo-dev&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloseduardo-dev&layout=compact&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/Carloseduardo-dev">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloseduardo-dev&layout=pie&theme=radical&hide_border=true" />
-  </a>
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/Carloseduardo-dev">
-    <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=Carloseduardo-dev&theme=radical&hide_border=true" />
+    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Carloseduardo-dev&theme=radical&hide_border=true" />
   </a>
-</div>
+</p>
 
 ---
 
-### 🐍 Meus commits animados
+### 🐍 Meus commits animados 😅
 
 ![snake gif](https://github.com/Carloseduardo-dev/Carloseduardo-dev/blob/output/github-snake.svg)
