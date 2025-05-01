@@ -8,7 +8,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=0FF0FC&vCenter=true&center=true&width=750&lines=Desenvolvedor+Backend+em+formação;Estudando+Python%2C+MySQL+e+JavaScript;Procurando+o+1%C2%BA+Estágio+em+TI"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=0FF0FC&vCenter=true&center=true&width=750&lines=Desenvolvedor+Backend+em+formação;Estudando+Python%2C+MySQL;Procurando+o+1%C2%BA+Estágio+em+TI"
     alt="Typing SVG"
   />
 </p>
