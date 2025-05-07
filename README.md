@@ -4,7 +4,6 @@
 
 ### 🚀 Sobre Mim
 - 🎓 Cursando **Ciência da Computação** – UNESA
-- 💼 Em transição de carreira: Atualmente trabalho como **Vendedor**
 - 👀 Buscando o **primeiro estágio ou oportunidade** na área de TI
 - 📫 Email para contato: **contatocarloseduardofe@gmail.com**
 - ⚧️ Pronomes: **Ele/Dele**
