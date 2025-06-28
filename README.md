@@ -1,4 +1,4 @@
-<h1 align="center"> Carlos Eduardo!🤓 </h1>
+<h1 align="center">👋Olá, eu sou Carlos Eduardo Ferreira! </h1>
 
 ---
 
