@@ -25,18 +25,18 @@
 ---
 
 ### 📊 Estatísticas
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Carloseduardo-dev&theme=merko&hide_border=1" alt="Activity Graph" width="90%"/>
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Carloseduardo-dev&theme=merko&hide_border=1" alt="Activity Graph" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Carloseduardo-dev">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Carloseduardo-dev&show_icons=true&theme=merko&count_private=true&hide_border=1" />
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloseduardo-dev&layout=compact&theme=merko&hide_border=1" />
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Carloseduardo-dev">
     <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Carloseduardo-dev&theme=merko&hide_border=1" />
   </a>
