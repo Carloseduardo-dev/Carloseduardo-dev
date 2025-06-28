@@ -26,19 +26,19 @@
 
 ### 📊 Estatísticas
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Carloseduardo-dev&theme=merko&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Carloseduardo-dev&theme=merko&hide_border=1" alt="Activity Graph" width="90%"/>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/Carloseduardo-dev">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Carloseduardo-dev&show_icons=true&theme=merko&count_private=true&hide_border=true" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloseduardo-dev&layout=compact&theme=merko&hide_border=true" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Carloseduardo-dev&show_icons=true&theme=merko&count_private=true&hide_border=1" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloseduardo-dev&layout=compact&theme=merko&hide_border=1" />
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/Carloseduardo-dev">
-    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Carloseduardo-dev&theme=merko&hide_border=true" />
+    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Carloseduardo-dev&theme=merko&hide_border=1" />
   </a>
 </p>
 
@@ -47,13 +47,13 @@
 ### 🌐 Conecte-se comigo ^-^
 
 <p align="center">
-  <a href="https://www.instagram.com/lm_caduu?igsh=Znd3NG1mdGhqNm54&utm_source=qr" target="_blank">
+  <a href="https://www.instagram.com/im_cadu01/" target="_blank">
    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="60" alt="Instagram"/>
   </a>
   <a href="https://linkedin.com/in/carlos-eduardo-ferreira-132295200" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="60" alt="LinkedIn"/>
   </a>
-  <a href="https://discord.com/users/1126712893275869264" target="_blank">
+  <a href="https://discord.com/users/cadu_021" target="_blank">
    <img src="https://cdn.simpleicons.org/discord/5865F2" height="60" alt="Discord" />
   </a>
 </p>
