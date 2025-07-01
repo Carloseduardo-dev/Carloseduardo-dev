@@ -5,7 +5,7 @@
 ### 🚀 Sobre Mim
 - 🎓 Cursando **Ciência da Computação** – UNESA
 - 👀 Buscando o **primeiro estágio ou oportunidade** na área de TI
-- 📫 Email para contato: **karloseduardoferreira2@gmail.com**
+- 📫 Email para contato: **contatocarloseduardofe@gmail.com**
 - ⚧️ Pronomes: **Ele/Dele**
   
 ---
