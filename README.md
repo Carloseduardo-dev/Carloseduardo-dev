@@ -1,6 +1,7 @@
 <h1 align="center">👋Olá, eu sou Carlos Eduardo Ferreira! </h1>
-
----
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+</div>
 
 ### 🚀 Sobre Mim
 - 🎓 Cursando **Ciência da Computação** – UNESA
