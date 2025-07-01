@@ -35,7 +35,7 @@
 
 <p align="left">
   <a href="https://github.com/Carloseduardo-dev">
-    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Carloseduardo-dev&theme=merko&hide_border=1" />
+    <img width="69%" src="https://github-readme-streak-stats.herokuapp.com/?user=Carloseduardo-dev&theme=merko&hide_border=1" />
   </a>
 </p>
 
