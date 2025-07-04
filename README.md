@@ -1,5 +1,8 @@
 # Carlos Eduardo Ferreira
 
+Sou um desenvolvedor júnior em início de carreira, sempre em busca de aprender e evoluir. Gosto de colaborar, trocar experiências com a comunidade dev e criar minhas próprias soluções e projetos. Sou movido por desafios e estou sempre aberto a novas ideias. Acredito que aprender é um processo contínuo — por isso, costumo ler livros, assistir a vídeo-aulas, fazer cursos e explorar novos conceitos por conta própria. Meu foco está em aprimorar minhas habilidades técnicas e minha capacidade de resolver problemas de forma criativa e eficiente.
+
+
 **`🎓 Ciência da Computação`**  
 **`📫 Email para contato:`** **contatocarloseduardofe@gmail.com** 
 
