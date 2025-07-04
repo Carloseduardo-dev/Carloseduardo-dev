@@ -10,18 +10,34 @@ Sou um desenvolvedor júnior em início de carreira, sempre em busca de aprender
 
 <h2 align="center"> 🧰 Skills </h2>
 
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="margin: 4px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" style="margin: 4px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" style="margin: 4px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" style="margin: 4px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" style="margin: 4px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" style="margin: 4px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" style="margin: 4px;" />
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="40" style="margin: 4px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" style="margin: 4px;" />
-</p>
+<img align="left" alt="python" width="30px" style="padding-right:10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  
+<img align="left" alt="mysql" width="30px" style="padding-right:10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  
+<img align="left" alt="javascript" width="30px" style="padding-right:10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  
+<img align="left" alt="html5" width="30px" style="padding-right:10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  
+<img align="left" alt="css3" width="30px" style="padding-right:10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  
+<img align="left" alt="postgresql" width="30px" style="padding-right:10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  
+<img align="left" alt="git" width="30px" style="padding-right:10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  
+<img align="left" alt="streamlit" width="30px" style="padding-right:10px;"
+  src="https://streamlit.io/images/brand/streamlit-mark-color.png"/>
+  
+<img align="left" alt="pandas" width="30px" style="padding-right:10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+  
+<br />
 
 
 <h2 align="center"> 🔎 Stats </h2>
@@ -31,6 +47,7 @@ Sou um desenvolvedor júnior em início de carreira, sempre em busca de aprender
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloseduardo-dev&layout=compact&theme=merko&hide_border=1" />
   </a>
 </p>
+
 
 <h2 align="center"> 🌐 Redes </h2>
 
