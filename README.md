@@ -44,5 +44,4 @@
 
 <h2 align="center"> 🛸 Commits </h2>
 
-![snake gif](https://github.com/Carloseduardo-dev/Carloseduardo-dev/blob/output/github-snake.svg)
-
+![snake dark](https://github.com/Carloseduardo-dev/Carloseduardo-dev/blob/output/github-snake-dark.svg)
