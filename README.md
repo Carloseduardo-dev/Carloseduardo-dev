@@ -19,7 +19,7 @@
 </p>
 
 
-<h2 align="center"> 🔎Stats </h2>
+<h2 align="center"> 🔎 Stats </h2>
 <p align="center">
   <a href="https://github.com/Carloseduardo-dev">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Carloseduardo-dev&show_icons=true&theme=merko&count_private=true&hide_border=1" />
@@ -27,7 +27,7 @@
   </a>
 </p>
 
-<h2 align="center"> 🌐Redes </h2>
+<h2 align="center"> 🌐 Redes </h2>
 
 <p align="center">
   <a href="https://www.instagram.com/im_cadu01/" target="_blank">
@@ -42,7 +42,7 @@
 </p>
 
 
-## Commits
+<h2 align="center"> 🛸 Commits </h2>
 
 ![snake gif](https://github.com/Carloseduardo-dev/Carloseduardo-dev/blob/output/github-snake.svg)
 
