@@ -46,8 +46,8 @@ Sou um desenvolvedor júnior em início de carreira, sempre em busca de aprender
 <h2 align="center"> 🔎 Stats </h2>
 <p align="center">
   <a href="https://github.com/Carloseduardo-dev">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Carloseduardo-dev&show_icons=true&theme=merko&count_private=true&hide_border=1" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloseduardo-dev&layout=compact&theme=merko&hide_border=1" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Carloseduardo-dev&show_icons=true&theme=merko&count_private=true&hide_border=1" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloseduardo-dev&layout=compact&theme=merko&hide_border=1" />
   </a>
 </p>
 
