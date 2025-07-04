@@ -10,7 +10,7 @@ Sou um desenvolvedor júnior em início de carreira, sempre em busca de aprender
 
 <h2 align="center"> 🧰 Skills </h2>
 
-<img align="left" alt="python" width="30px" style="padding-right:10px;" 
+<img align="left" alt="python" width="35px" style="padding-right:10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   
 <img align="left" alt="mysql" width="30px" style="padding-right:10px;"
@@ -31,7 +31,7 @@ Sou um desenvolvedor júnior em início de carreira, sempre em busca de aprender
 <img align="left" alt="git" width="30px" style="padding-right:10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   
-<img align="left" alt="streamlit" width="30px" style="padding-right:10px;"
+<img align="left" alt="streamlit" width="40px" style="padding-right:10px;"
   src="https://streamlit.io/images/brand/streamlit-mark-color.png"/>
   
 <img align="left" alt="pandas" width="30px" style="padding-right:10px;"
