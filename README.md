@@ -1,24 +1,26 @@
 # Carlos Eduardo Ferreira
 
-Sou um desenvolvedor júnior em início de carreira, sempre em busca de aprender e evoluir. Gosto de colaborar, trocar experiências com a comunidade dev e criar minhas próprias soluções e projetos. Sou movido por desafios e estou sempre aberto a novas ideias. Acredito que aprender é um processo contínuo — por isso, costumo ler livros, assistir a vídeo-aulas, fazer cursos e explorar novos conceitos por conta própria. Meu foco está em aprimorar minhas habilidades técnicas e minha capacidade de resolver problemas de forma criativa e eficiente.
-
 
 **`🎓 Ciência da Computação`**  
 **`📫 Email para contato:`** **contatocarloseduardofe@gmail.com** 
 
+Sou um desenvolvedor júnior em início de carreira, sempre em busca de aprender e evoluir. Gosto de colaborar, trocar experiências com a comunidade dev e criar minhas próprias soluções e projetos. Sou movido por desafios e estou sempre aberto a novas ideias. Acredito que aprender é um processo contínuo — por isso, costumo ler livros, assistir a vídeo-aulas, fazer cursos e explorar novos conceitos por conta própria. Meu foco está em aprimorar minhas habilidades técnicas e minha capacidade de resolver problemas de forma criativa e eficiente.
+
+---
 
 <h2 align="center"> 🧰 Skills </h2>
 
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="margin: 4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" style="margin: 4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" style="margin: 4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" style="margin: 4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" style="margin: 4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" style="margin: 4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" style="margin: 4px;" />
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="40" style="margin: 4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" style="margin: 4px;" />
 </p>
 
 
