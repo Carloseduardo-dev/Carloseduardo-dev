@@ -8,10 +8,9 @@ Sou um desenvolvedor júnior em início de carreira, sempre em busca de aprender
 
 ---
 
-<!-- <h2 align="center"> 🧰 Skills </h2> -->
-## 🧰 Skills
+<h2 align="center"> 🧰 Skills </h2>
 
-<p align="left">
+<p align="center">
   <img alt="python" width="35px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
   <img alt="mysql" width="30px" style="padding-right:10px;"
@@ -35,21 +34,18 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.s
 </p>
 
 
-<!-- <h2 align="center"> 🔎 Stats </h2> -->
-## 🔎 Stats
-
-<p align="left">
+<h2 align="center"> 🔎 Stats </h2>
+<p align="center">
   <a href="https://github.com/Carloseduardo-dev">
-    <img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloseduardo-dev&layout=compact&theme=dark&hide_border=1" />
-    <img width="75%" src="https://github-readme-stats.vercel.app/api?username=Carloseduardo-dev&show_icons=true&theme=dark&count_private=true&hide_border=1" />
+    <img width="65%" src="https://github-readme-stats.vercel.app/api?username=Carloseduardo-dev&show_icons=true&theme=merko&count_private=true&hide_border=1" />
+    <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloseduardo-dev&layout=compact&theme=merko&hide_border=1" />
   </a>
 </p>
 
 
-<!--<h2 align="center"> 🌐 Redes </h2> -->
-## 🌐 Redes
+<h2 align="center"> 🌐 Redes </h2>
 
-<p align="left">
+<p align="center">
   <a href="https://www.instagram.com/im_cadu01/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
@@ -62,8 +58,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.s
 </p>
 
 
-<!-- <h2 align="center"> 🛸 Commits </h2> -->
-## 🛸 Commits
+<h2 align="center"> 🛸 Commits </h2>
 
 ![snake dark](https://github.com/Carloseduardo-dev/Carloseduardo-dev/blob/output/github-snake-dark.svg)
 
