@@ -1,52 +1,66 @@
+# Carlos Eduardo Ferreira
 
-<h1 align="center">👋 Olá, eu sou o Carlos Eduardo</h1>
+
+**`🎓 Ciência da Computação`**  
+**`📫 Email para contato:`** **contatocarloseduardofe@gmail.com** 
+
+Sou um desenvolvedor júnior em início de carreira, sempre em busca de aprender e evoluir. Gosto de colaborar, trocar experiências com a comunidade dev e criar minhas próprias soluções e projetos. Sou movido por desafios e estou sempre aberto a novas ideias. Acredito que aprender é um processo contínuo — por isso, costumo ler livros, assistir a vídeo-aulas, fazer cursos e explorar novos conceitos por conta própria. Meu foco está em aprimorar minhas habilidades técnicas e minha capacidade de resolver problemas de forma criativa e eficiente.
+
+---
+
+<h2 align="center"> 🧰 Skills </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Backend+em+formação;Estudando+Python+e+MySQL;Procurando+o+1%C2%BA+Estágio+em+TI" alt="Typing SVG" />
+  <img alt="python" width="35px" style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
+  <img alt="mysql" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>   
+  <img alt="javascript" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>    
+  <img alt="Java" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>   
+  <img alt="html5" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>    
+  <img alt="css3" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>    
+  <img alt="postgresql" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>   
+  <img alt="git" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>    
+  <img alt="streamlit" width="40px" style="padding-right:10px;"
+src="https://streamlit.io/images/brand/streamlit-mark-color.png"/>    
+  <img alt="pandas" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
 </p>
 
----
 
-### 🚀 Sobre Mim
-- 🎓 Cursando **Ciência da Computação** – UNESA  
-- 🧠 Estudando **Python, MySQL e JavaScript**
-- 💼 Em transição de carreira: Atualmente trabalho como **Vendedor**
-- 👀 Buscando o **primeiro estágio ou oportunidade** na área de TI
-- 📫 Email para contato: **contatocarloseduardofe@gmail.com**
-- ⚧️ Pronomes: **Ele/Dele**
-
----
-
-### 💻 Tecnologias que estudo e utilizo:
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
+<h2 align="center"> 🔎 Stats </h2>
+<p align="center">
   <a href="https://github.com/Carloseduardo-dev">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Carloseduardo-dev&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+    <img width="65%" src="https://github-readme-stats.vercel.app/api?username=Carloseduardo-dev&show_icons=true&theme=merko&count_private=true&hide_border=1" />
+    <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloseduardo-dev&layout=compact&theme=merko&hide_border=1" />
   </a>
-  <a href="https://github.com/Carloseduardo-dev">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloseduardo-dev&layout=pie&theme=radical&hide_border=true" />
+</p>
+
+
+<h2 align="center"> 🌐 Redes </h2>
+
+<p align="center">
+  <a href="https://www.instagram.com/im_cadu01/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Carloseduardo-dev">
-    <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=Carloseduardo-dev&theme=radical&hide_border=true" />
+  <a href="https://linkedin.com/in/carlos-eduardo-ferreira-132295200" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</div>
+  <a href="https://discord.com/users/cadu_021" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
 
----
 
-### 🐍 Meus commits animados
+<h2 align="center"> 🛸 Commits </h2>
 
-![snake gif](https://github.com/Carloseduardo-dev/Carloseduardo-dev/blob/output/github-snake.svg)
+![snake dark](https://github.com/Carloseduardo-dev/Carloseduardo-dev/blob/output/github-snake-dark.svg)
+
+<!-- Atualização feita para testes de contribuição e conquista do Pull Shark -->
+
