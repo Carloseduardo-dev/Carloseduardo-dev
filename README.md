@@ -12,25 +12,25 @@ Sou um desenvolvedor júnior em início de carreira, sempre em busca de aprender
 ## 🧰 Skills
 
 <p align="left">
-  <img alt="python" width="35px" style="padding-right:10px;" 
+  <img alt="python" width="55px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
-  <img alt="mysql" width="30px" style="padding-right:10px;"
+  <img alt="mysql" width="50px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>   
-  <img alt="javascript" width="30px" style="padding-right:10px;"
+  <img alt="javascript" width="50px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>    
-  <img alt="Java" width="30px" style="padding-right:10px;"
+  <img alt="Java" width="50px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>   
-  <img alt="html5" width="30px" style="padding-right:10px;"
+  <img alt="html5" width="50px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>    
-  <img alt="css3" width="30px" style="padding-right:10px;"
+  <img alt="css3" width="50px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>    
-  <img alt="postgresql" width="30px" style="padding-right:10px;"
+  <img alt="postgresql" width="50px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>   
-  <img alt="git" width="30px" style="padding-right:10px;"
+  <img alt="git" width="50px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>    
-  <img alt="streamlit" width="40px" style="padding-right:10px;"
+  <img alt="streamlit" width="50px" style="padding-right:10px;"
 src="https://streamlit.io/images/brand/streamlit-mark-color.png"/>    
-  <img alt="pandas" width="30px" style="padding-right:10px;"
+  <img alt="pandas" width="50px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
 </p>
 
