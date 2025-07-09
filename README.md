@@ -43,7 +43,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.s
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloseduardo-dev&layout=donut&theme=neon&hide_border=1" />
   </a>
   <a href="https://github.com/Carloseduardo-dev">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Carloseduardo-dev&show_icons=true&theme=neon&count_private=true&hide_border=1" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Carloseduardo-dev&show_icons=true&theme=neon&count_private=true&hide_border=1&rank_icon=github" />
   </a>
 </p>
 
