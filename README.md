@@ -40,8 +40,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.s
 
 <p align="left">
   <a href="https://github.com/Carloseduardo-dev">
-    <img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloseduardo-dev&layout=compact&theme=dark&hide_border=1" />
-    <img width="75%" src="https://github-readme-stats.vercel.app/api?username=Carloseduardo-dev&show_icons=true&theme=dark&count_private=true&hide_border=1" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloseduardo-dev&layout=compact&theme=dark&hide_border=1" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Carloseduardo-dev&show_icons=true&theme=dark&count_private=true&hide_border=1" />
   </a>
 </p>
 
@@ -51,13 +51,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.s
 
 <p align="left">
   <a href="https://www.instagram.com/im_cadu01/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://linkedin.com/in/carlos-eduardo-ferreira-132295200" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://discord.com/users/cadu_021" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
 
