@@ -9,9 +9,9 @@ Sou um desenvolvedor júnior em início de carreira, sempre em busca de aprender
 ---
 
 <!--  ### 🧰 Languages and Tools  -->
-<h6>
-<img src="https://img.icons8.com/neon/28/laptop.png"style="vertical-align:middle;margin-right:50px;filter:drop-shadow(1 1 8px #00f9ff);" /> Languages and Tools
-</h6>
+<h5>
+<img src="https://img.icons8.com/neon/28/laptop.png"style="vertical-align:middle;margin-right:50px;filter:drop-shadow(1 1 8px #00f9ff);" />  [ Languages and Tools ]
+</h5>
 
 <p align="left">
   <img alt="python" width="30px" style="padding-right:10px;" 
@@ -44,8 +44,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
 
 
 <!-- ## Stats -->
-<h6> <img src="https://img.icons8.com/neon/28/settings.png"style="vertical-align:middle;margin-right:50px;filter:drop-shadow(2 0 8px #00ff88);"/>Stats
-</h6>
+<h5> <img src="https://img.icons8.com/neon/28/settings.png"style="vertical-align:middle;margin-right:50px;filter:drop-shadow(2 0 8px #00ff88);"/>  [ Stats ] 
+</h5>
 
 <p align="left">
   <a href="https://github.com/Carloseduardo-dev">
@@ -58,9 +58,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
 
 
 <!--## 🌐 Redes-->
-<h6>
-<img src="https://img.icons8.com/neon/28/rocket.png"style="vertical-align:middle;margin-right:8px;filter:drop-shadow(0 0 8px #ff00ff);" />Redes
-</h6>
+<h5>
+<img src="https://img.icons8.com/neon/28/rocket.png"style="vertical-align:middle;margin-right:8px;filter:drop-shadow(0 0 8px #ff00ff);" />  [ Redes ]
+</h5>
 
 <p align="left">
   <a href="https://www.instagram.com/im_cadu01/" target="_blank">
