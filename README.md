@@ -43,19 +43,17 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
 
 **`🔎 Stats`**
 
-
 <p align="left">
   <a href="https://github.com/Carloseduardo-dev">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloseduardo-dev&layout=donut&theme=neon&hide_border=1" />
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloseduardo-dev&layout=donut&theme=neon&hide_border=3" />
   </a>
   <a href="https://github.com/Carloseduardo-dev">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Carloseduardo-dev&show_icons=true&theme=neon&count_private=true&hide_border=1&rank_icon=github" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Carloseduardo-dev&show_icons=true&theme=neon&count_private=true&hide_border=3&rank_icon=github" />
   </a>
 </p>
 
 
 **`🌐 Redes`**
-
 
 <p align="left">
   <a href="https://www.instagram.com/im_cadu01/" target="_blank">
