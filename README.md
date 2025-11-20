@@ -38,6 +38,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.s
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
   <img alt="vscode" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img alt="n8n" width="30px" style="padding-right:10px;"
+src="./assets/icons/n8n.svg"/>
 </p>
 
 
