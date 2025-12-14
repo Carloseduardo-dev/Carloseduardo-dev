@@ -47,7 +47,7 @@ src="./assets/icons/n8n.svg"/>
 
 <p align="left">
   <a href="https://github.com/Carloseduardo-dev">
-    <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloseduardo-dev&layout=donut&theme=neon&hide_border=3" />
+    <img width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloseduardo-dev&langs_count=10&layout=donut&theme=neon&hide_border=3" />
   </a>
   <a href="https://github.com/Carloseduardo-dev">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Carloseduardo-dev&show_icons=true&theme=neon&count_private=true&hide_border=3&rank_icon=github" />
