@@ -17,29 +17,27 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
   <img alt="mysql" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>   
   <img alt="javascript" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>    
-  <img alt="Java" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>   
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>       
   <img alt="html5" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>    
   <img alt="css3" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>    
-  <img alt="postgresql" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>   
   <img alt="git" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img alt="GitHub" width="30px" style="padding-right:10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />   
-  <img alt="streamlit" width="30px" style="padding-right:10px;"
-src="https://streamlit.io/images/brand/streamlit-mark-color.png"/>    
-  <img alt="pandas" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />      
   <img alt="intellij" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
   <img alt="vscode" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   <img alt="n8n" width="30px" style="padding-right:10px;"
 src="./assets/icons/n8n.svg"/>
+  <img alt="firebase" width="30px" style="padding-right:10px;" 
+src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/> 
+  <img alt="next.js" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+  <img alt="react" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 </p>
 
 
