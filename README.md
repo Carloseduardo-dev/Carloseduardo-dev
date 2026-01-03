@@ -1,8 +1,8 @@
 # Carlos Eduardo Ferreira
 
 
-**`🎓 Ciência da Computação`**  
-**`📫 Email para contato:`** **contatocarloseduardofe@gmail.com** 
+**`🎓 computer Science`**  
+**`📫 Contact email:`** **contatocarloseduardofe@gmail.com** 
 
 Hello! 👋
 I'm Carlos Eduardo, a Junior Software Developer. I currently work in a startup environment and have hands-on experience with TypeScript, Node.js, Next.js, React, Firebase, and automations, focusing on building and evolving web applications.
@@ -60,7 +60,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
 </p>
 
 
-**`🌐 Redes`**
+**`🌐 social media`**
 
 
 <p align="left">
