@@ -4,7 +4,14 @@
 **`🎓 Ciência da Computação`**  
 **`📫 Email para contato:`** **contatocarloseduardofe@gmail.com** 
 
-Sou um desenvolvedor júnior em início de carreira, sempre em busca de aprender e evoluir. Gosto de colaborar, trocar experiências com a comunidade dev e criar minhas próprias soluções e projetos. Sou movido por desafios e estou sempre aberto a novas ideias. Acredito que aprender é um processo contínuo — por isso, costumo ler livros, assistir a vídeo-aulas, fazer cursos e explorar novos conceitos por conta própria. Meu foco está em aprimorar minhas habilidades técnicas e minha capacidade de resolver problemas de forma criativa e eficiente.
+Hello! 👋
+I'm Carlos Eduardo, a Junior Software Developer. I currently work in a startup environment and have hands-on experience with TypeScript, Node.js, Next.js, React, Firebase, and automations, focusing on building and evolving web applications.
+
+I work with real production systems, contributing to feature development, highly-used market API integrations, data modeling, and process automation to improve product efficiency and user experience.
+
+Throughout my experience, I have implemented core features such as payment systems and cloud-based file storage using AWS S3, handling secure upload flows and service integrations to support scalable and reliable solutions. I have also contributed to optimizing application flows, building dashboards, and integrating multiple services, always aiming for clean, maintainable, and scalable code.
+
+In addition to my technical skills, I’m known for being collaborative, proactive, and clear in communication, valuing teamwork and continuous learning through real-world challenges, documentation, and hands-on experimentation.
 
 ---
 
