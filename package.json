@@ -1,0 +1,12 @@
+{
+  "name": "github-profile-summary-cards",
+  "version": "1.0.0",
+  "description": "Generate GitHub profile summary cards with private stats",
+  "scripts": {
+    "build": "node generate-graphics.js"
+  },
+  "dependencies": {
+    "axios": "^1.8.2",
+    "d3": "^6.7.0"
+  }
+}
