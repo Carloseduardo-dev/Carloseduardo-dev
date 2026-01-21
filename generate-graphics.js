@@ -11,13 +11,13 @@ if (!fs.existsSync(outputDir)) {
 }
 
 // Token do GitHub (substitua pelo seu token)
-const G_TOKEN = process.env.GITHUB_TOKEN;
+const TOKEN = process.env.G_TOKEN;
 const USERNAME = "Carloseduardo-dev";
 
 // Função para buscar dados da API
 async function fetchGitHubStats() {
   const headers = {
-    Authorization: `token ${GITHUB_TOKEN}`,
+    Authorization: `token ${TOKEN}`,
     Accept: "application/vnd.github.v3+json",
   };
 
