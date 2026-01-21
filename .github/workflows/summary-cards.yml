@@ -1,0 +1,29 @@
+name: Generate Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Executa diariamente à meia-noite
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      # Checkout do repositório
+      - uses: actions/checkout@v2
+
+      # Instalar as dependências
+      - name: Install dependencies
+        run: npm install
+
+      # Gerar os gráficos
+      - name: Build Summary Cards
+        run: |
+          USERNAME=Carloseduardo-dev GITHUB_TOKEN=${{ secrets.PAT_1 }} npm run build
+
+      # Publicar no GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.PAT_1 }}
+          publish_dir: ./public
