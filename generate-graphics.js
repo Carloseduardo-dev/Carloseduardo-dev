@@ -11,7 +11,7 @@ if (!fs.existsSync(outputDir)) {
 }
 
 // Token do GitHub (substitua pelo seu token)
-const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
+const G_TOKEN = process.env.GITHUB_TOKEN;
 const USERNAME = "Carloseduardo-dev";
 
 // Função para buscar dados da API
