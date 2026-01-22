@@ -2,39 +2,30 @@ name: Generate Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Executa diariamente à meia-noite
+    - cron: "0 18 * * *" # Executa diariamente às 18:00 UTC
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
     steps:
-      # Passo 1: Fazer checkout do repositório
-      - name: Checkout Repository
-        uses: actions/checkout@v2
+      # Passo 1: Fazer o checkout do repositório
+      - uses: actions/checkout@v4
 
-      # Passo 2: Instalar dependências
-      - name: Install dependencies
-        run: npm install
-
-      - name: Setup Git config
-        run: |
-          git config --global user.email "karloseduardoferreira2@gmail.com"
-          git config --global user.name "GitHub Actions"
-
-      # Passo 3: Geração dos gráficos
-      - name: Build Summary Cards
+      # Passo 2: Configurar o token e gerar os gráficos
+      - name: Generate Summary Cards
         env:
-          USERNAME: Carloseduardo-dev
-          GITHUB_TOKEN: ${{ secrets.PAT_1 }} # Usa o token definido como segredo
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Usa o token padrão gerado pelo workflow
+          USERNAME: ${{ github.repository_owner }}
         run: npm run build
 
-      # Passo 4: Publicar no GitHub Pages
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.PAT_1 }} # Token de deploy
-          publish_dir: ./public
-          force_orphan: true      
-        env:
-          ACTIONS_STEP_DEBUG: true           # Habilitação de logs detalhados
+      # Passo 3: Configurar git para commit e push
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add -A .
+          if git commit -m "Updated summary cards"; then
+            git push
+          fi
