@@ -9,23 +9,26 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      # Checkout do repositório
-      - uses: actions/checkout@v2
+      # Passo 1: Fazer checkout do repositório
+      - name: Checkout Repository
+        uses: actions/checkout@v2
 
-      # Instalar as dependências
+      # Passo 2: Instalar dependências
       - name: Install dependencies
         run: npm install
 
-      # Gerar gráficos com variáveis de ambiente
+      # Passo 3: Geração dos gráficos
       - name: Build Summary Cards
         env:
           USERNAME: Carloseduardo-dev
-          GITHUB_TOKEN: ${{ secrets.PAT_1 }}
+          GITHUB_TOKEN: ${{ secrets.PAT_1 }} # Usa o token definido como segredo
         run: npm run build
 
-      # Publicar no GitHub Pages
+      # Passo 4: Publicar no GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.PAT_1 }}
-          publish_dir: ./public
+          github_token: ${{ secrets.PAT_1 }} # Token de deploy
+          publish_dir: ./public              # Diretório de saída
+        env:
+          ACTIONS_STEP_DEBUG: true           # Habilitação de logs detalhados
