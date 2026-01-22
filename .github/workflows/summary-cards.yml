@@ -20,12 +20,12 @@ jobs:
       - name: Build Summary Cards
         env:
           USERNAME: Carloseduardo-dev
-          GITHUB_TOKEN: ${{ secrets.G_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_1 }}
         run: npm run build
 
       # Publicar no GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.G_TOKEN }}
+          github_token: ${{ secrets.PAT_1 }}
           publish_dir: ./public
