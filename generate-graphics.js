@@ -7,14 +7,19 @@ const outputDir = path.resolve(__dirname, "public");
 
 // Garantir que a pasta exista
 if (!fs.existsSync(outputDir)) {
-  fs.mkdirSync(outputDir);
+  fs.mkdirSync(outputDir, { recursive: true });
 }
 
-// Token do GitHub (substitua pelo seu token)
-const TOKEN = process.env.G_TOKEN;
-const USERNAME = "Carloseduardo-dev";
+// Variáveis de ambiente do workflow
+const TOKEN = process.env.GITHUB_TOKEN;
+const USERNAME = process.env.USERNAME;
 
-// Função para buscar dados da API
+if (!TOKEN || !USERNAME) {
+  console.error("Erro: Variáveis de ambiente USERNAME ou GITHUB_TOKEN não estão definidas.");
+  process.exit(1); // Encerra execução se estiver incompleto
+}
+
+// Função para buscar dados da API do GitHub
 async function fetchGitHubStats() {
   const headers = {
     Authorization: `token ${TOKEN}`,
@@ -28,23 +33,22 @@ async function fetchGitHubStats() {
     );
     const repos = reposResponse.data;
 
-    // Generar um gráfico básico de "Most Used Languages"
+    // Gerar gráfico simples de "Most Used Languages"
     const languageCount = {};
     repos.forEach((repo) => {
       if (repo.language) {
-        languageCount[repo.language] =
-          (languageCount[repo.language] || 0) + repo.size;
+        languageCount[repo.language] = (languageCount[repo.language] || 0) + repo.size;
       }
     });
 
     const languageGraph = JSON.stringify(languageCount, null, 2);
 
-    // Salvar gráfico estático
+    // Salvar arquivos na pasta "public"
     fs.writeFileSync(path.join(outputDir, "most-used-languages.json"), languageGraph);
 
-    console.log("Gráficos gerados com sucesso!");
+    console.log(`Gráficos gerados com sucesso para o usuário ${USERNAME}!`);
   } catch (error) {
-    console.error("Erro ao buscar dados da API do GitHub:", error);
+    console.error("Erro ao buscar dados da API:", error.message);
   }
 }
 
