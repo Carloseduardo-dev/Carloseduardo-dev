@@ -32,7 +32,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/
   <img alt="git" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img alt="GitHub" width="30px" style="padding-right:10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />      
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img alt="antigravity" width="30px" style="padding-right:10px;"
+ src="./assets/icons/antigravity.svg"/>
   <img alt="intellij" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
   <img alt="vscode" width="30px" style="padding-right:10px;"
@@ -47,6 +49,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.s
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img alt="typescript" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img alt="nodejs" width="30px" style="padding-right:10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 </p>
 </p>
 
