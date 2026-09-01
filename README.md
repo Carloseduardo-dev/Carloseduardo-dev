@@ -5,7 +5,7 @@
 **`📫 Contact email:`** **contatocarloseduardofe@gmail.com** 
 
 Hello! 👋
-I'm Carlos Eduardo, Jr Software Engineer. I currently work in a startup environment and have hands-on experience with TypeScript, Node.js, Next.js, React, Firebase, and automations, focusing on building and evolving web applications.
+I'm Carlos Eduardo, Software Engineer. I currently work in a startup environment and have hands-on experience with TypeScript, Node.js, Next.js, React, Firebase, and automations, focusing on building and evolving web applications.
 
 I work with real production systems, contributing to feature development, highly-used market API integrations, data modeling, and process automation to improve product efficiency and user experience.
 
